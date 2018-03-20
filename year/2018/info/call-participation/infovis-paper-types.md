@@ -8,6 +8,8 @@ The **IEEE Information Visualization (InfoVis)** conference solicits original re
 
 We encourage papers from novel research areas that pertain to information visualization. Papers may contribute new or improved visual encoding or interaction techniques, evaluations of InfoVis techniques and tools, models or theories related to InfoVis, systems that support visual data analysis, or applications of information visualization to domain-specific problems. This list is not prescriptive; in fact, many successful papers combine two contribution types, and some of the very best papers often combine several.
 
+The submission guidelines can be found here: http://ieeevis.org/year/2018/info/call-participation/paper-submission-guidelines
+
 
 ## Topics
 
