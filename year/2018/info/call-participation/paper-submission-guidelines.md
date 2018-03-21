@@ -23,7 +23,7 @@ All conferences at IEEE VIS use similar submission and review processes. Please 
 
 ## Important Submission Requirements
 
-* Abstract vs. full deadline - submission information (title, abstract, authors, keywords) are due on **March 21**, and full papers with supplemental material are due on **March 31**.
+* Abstract vs. full deadline - submission information (title, abstract, authors) are due on **March 21**, and full papers with supplemental material are due on **March 31**.
 * 9+2 page restriction - VIS papers are **strictly** limited to 9 pages of content plus an additional 2 pages of references. Papers may be shorter than this but must make a similar contribution to a longer paper.
 * Resubmissions encouraged - authors are encouraged to include reviews and responses for previously rejected papers in their submission to IEEE VIS.
 * Optional single-blind or double-blind - reviewers’ identities are not revealed. Authors may choose whether to anonymize their submission or not.
