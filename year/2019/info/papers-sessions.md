@@ -889,7 +889,7 @@ Authors: Gromit Yeuk-Yin Chan, Luis Gustavo Nonato, Alice Chu, Preeti Raghavan, 
 Authors: Siming Chen, Natalia Andrienko, Gennady Andrienko, Linara Adilova, Jeremie Barlet, Joerg Kindermann, Phong H. Nguyen, Olivier Thonnard, Cagatay Turkay
 
 **[I] ShapeWordle: Tailoring Wordles using Shape-aware Archimedean Spirals (J)**  
-Authors: Yunhai Wang, Xiaowei Chu, Kaiyi Zhang, Chen Bao, Xiaotong Li, Jian Zhang, Christophe Hurter, Chi-Wing Fu, Oliver Deussen
+Authors: Yunhai Wang, Xiaowei Chu, Kaiyi Zhang, Chen Bao, Xiaotong Li, Jian Zhang, Chi-Wing Fu, Christophe Hurter, Oliver Deussen, Bongshin Lee
 
 **[V] Semantic Concept Spaces: Guided Topic Model Refinement using Word-Embedding Projections (J)**  
 Authors: Mennatallah El-Assady, Rebecca Kehlbeck, Christopher Collins, Daniel Keim, Oliver Deussen
