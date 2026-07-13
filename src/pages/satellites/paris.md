@@ -49,3 +49,8 @@ We are still working on the local program. The current proposal will change as w
 
 ## FAQ
 
+### How can we get to the satellite location?
+The closest Metro stop is "Nationale" on line 6. It is a 400m (6min) walk from there to the conference location. [See a google map here](https://maps.app.goo.gl/b7JskmmgEZ1bezVm8). You can also walk from Place d'Italie, which is served also by line 5 and 7, in about 10-15 minutes. [See a google map for this trip here](https://maps.app.goo.gl/7hP5iWgrJyasthnB6).
+
+### Where can we stay around the conference location?
+We have no conference hotel for the satellite, so you are free to choose any hotels in your budget range. We recommend to check around Place d'Italie or along line 6. For example, there are a number of hotels around the Denfert Rochereau station. 
