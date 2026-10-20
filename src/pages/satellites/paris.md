@@ -51,7 +51,7 @@ We are still working on the local program. The current proposal will change as w
 We are very grateful for support for the Paris satellite from the following sponsors:
 
 
-| | 
+|![cea logo](/year/2026/assets/satellite/cea-web.png)|
 |CEA|
 
 ## FAQ
@@ -65,4 +65,4 @@ The conference will take place close to Place d'Italie. There are two Ibis hotel
 
 Otherwise, we recommend to look for hotels near "Institut des Systèmes Complexes" https://maps.app.goo.gl/BXhJ7TUpEjCdZYRj9, there are many around.
 
-![cea logo](/year/2026/assets/satellite/cea-web.png)
+
